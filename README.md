@@ -1,4 +1,4 @@
-# moyori_linebot  
+# 最寄り駅検索　LINEBot  
 現在大学の研究室でPythonを学習中のため、Pythonでも何か作ってみようと思い、最寄り駅を教えてくれるLINEボットを作成しました。
 制作にあたり、以下のサイトを参考にさせていただきました。  
 http://rautaku.hatenablog.com/entry/2018/01/07/153000  
