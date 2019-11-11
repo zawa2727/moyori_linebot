@@ -1,5 +1,7 @@
 # moyori_linebot  
-現在大学の研究室でPythonを学習中のため、Pythonでも何か作ってみようと思い、最寄り駅を教えてくれるLINEボットを作成しました。  
+現在大学の研究室でPythonを学習中のため、Pythonでも何か作ってみようと思い、最寄り駅を教えてくれるLINEボットを作成しました。
+制作にあたり、以下のサイトを参考にさせていただきました。  
+http://rautaku.hatenablog.com/entry/2018/01/07/153000  
 MessagingAPIを介してやり取りを行い、内部処理の部分をPythonでFlaskをインポートして書いています。  
 最寄り駅の受け取りにはSimpleAPIを、距離や時間の計算やマップの出力にはGoogleAPIを利用しました。  
 大まかな流れは以下の通りです。  
