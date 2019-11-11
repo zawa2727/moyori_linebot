@@ -1,6 +1,6 @@
 # moyori_linebot
 最寄り駅を教えてくれるLINEボットを作成しました。　　　　　　　　　　　　　　　　　　　　　　　　　　
-MessagingAPIを介してやり取りを行い、内部処理はPythonでFlaskをインポートして書いています。
+MessagingAPIを介してやり取りを行い、内部処理はPythonでFlaskをインポートして書いています。　
 最寄り駅の受け取りにはSimpleAPIを、距離や時間の計算やマップの出力にはGoogleAPIを利用しました。　　　　　　　　　　　　　　　　　　　　　　　　　
 大まかな流れは以下の通りです。　　　　　　　　　　　　　　　　　　　　　　　
 １．「最寄り駅」と話しかけてもらい位置情報を受け取る　　　　　　　　　　　　　　　　　　　　　
